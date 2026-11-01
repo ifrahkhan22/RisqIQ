@@ -1,0 +1,11 @@
+# Third-party data: download these from the sources listed in the README
+data/raw/data_gpr_daily_recent.xls
+data/raw/OVXCLS.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor and system files
+.vscode/
+.DS_Store
